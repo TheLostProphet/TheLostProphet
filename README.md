@@ -37,5 +37,5 @@ After 2 semesters I switched majors to Cyber Security and System Administration,
 - Comptia IT Fundamental+ - September 2021  
 - AWS Cloud Practitioner - November 2022 
 - Associate of Applied Science in Networking/Cyber Defense - May 2024
-
+- Comptia A+ - September 2024
 #
