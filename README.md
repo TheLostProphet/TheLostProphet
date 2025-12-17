@@ -1,4 +1,4 @@
-# 🖥️ Klindbeck
+# 🖥️ K. Lindbeck
 ---
 **` Novice Coder/ Network Engineer /Tech Wizard `**
 
