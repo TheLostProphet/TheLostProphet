@@ -38,4 +38,6 @@ After 2 semesters I switched majors to Cyber Security and System Administration,
 - AWS Cloud Practitioner - November 2022 
 - Associate of Applied Science in Networking/Cyber Defense - May 2024
 - Comptia A+ - September 2024
+- Amazon AMER Hackathon Champion 2025
+- Six Sigma Yellow Belt - August 2025
 #
